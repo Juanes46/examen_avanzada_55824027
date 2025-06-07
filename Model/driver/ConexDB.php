@@ -1,7 +1,6 @@
 <?php
 
-use\app\Model;
+use mysql
 
- 
  
 ?>
